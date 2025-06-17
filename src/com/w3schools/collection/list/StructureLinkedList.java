@@ -1,3 +1,5 @@
+package com.w3schools.collection.list;
+
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;

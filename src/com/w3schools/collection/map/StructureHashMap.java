@@ -1,3 +1,5 @@
+package com.w3schools.collection.map;
+
 import java.util.HashMap;
 
 public class StructureHashMap {

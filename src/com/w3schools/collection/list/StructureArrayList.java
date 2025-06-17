@@ -1,3 +1,5 @@
+package com.w3schools.collection.list;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
